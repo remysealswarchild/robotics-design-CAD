@@ -1,0 +1,21 @@
+Info: Processing symbol 'J1:'.
+Info: Processing symbol 'J2:'.
+Info: Processing symbol 'J3:'.
+Info: Processing symbol 'J4:'.
+Info: Processing symbol 'U1:BTS7960B_INF'.
+Info: Processing symbol 'U2:BTS7960B_INF'.
+Info: Processing symbol 'U4:DEV-16771:MODULE_DEV-16771'.
+Info: Processing symbol 'U5:BTS7960B_INF'.
+Info: Processing symbol 'U6:BTS7960B_INF'.
+Error: Cannot add J1 (no footprint assigned).
+Error: Cannot add J2 (no footprint assigned).
+Error: Cannot add J3 (no footprint assigned).
+Error: Cannot add J4 (no footprint assigned).
+Error: Cannot add U1 (footprint 'BTS7960B_INF' not found).
+Error: Cannot add U2 (footprint 'BTS7960B_INF' not found).
+Error: Cannot add U4 (footprint 'DEV-16771:MODULE_DEV-16771' not found).
+Error: Cannot add U5 (footprint 'BTS7960B_INF' not found).
+Error: Cannot add U6 (footprint 'BTS7960B_INF' not found).
+
+
+Info: Total warnings: 0, errors: 9.
